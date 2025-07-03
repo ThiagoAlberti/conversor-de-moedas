@@ -25,7 +25,8 @@ Este projeto é um conversor de moedas simples, que utiliza a API pública [Exch
 Para instalar as bibliotecas necessárias, execute:
 
 ```bash
-pip install requests PySimpleGUI
+pip install requests
+pip install PySimpleGUI
 
 
 Como usar
