@@ -27,6 +27,8 @@ Para instalar as bibliotecas necessárias, execute:
 ```bash
 pip install requests
 pip install PySimpleGUI
+python -m pip install --upgrade --extra-index-url https://PySimpleGUI.net/install PySimpleGUI
+
 
 
 Como usar
